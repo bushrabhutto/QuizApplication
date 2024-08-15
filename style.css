@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+    background-image: url('xinyi-w-qjCHPZbeXCQ-unsplash.jpg');
+    background-repeat: no-repeat;
+}
+fieldset{
+   background-color: beige;
+    text-align: center;
+    padding: 50px;
+}
+p{
+line-height: 2rem;
+font-weight: bold;
+}
